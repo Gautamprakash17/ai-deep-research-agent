@@ -6,7 +6,8 @@ A powerful, feature-rich research assistant that leverages OpenAI's Agents SDK o
 [![Python](https://img.shields.io/badge/Python-3.8+-blue)]()
 [![Streamlit](https://img.shields.io/badge/Streamlit-Latest-orange)]()
 
-> Maintained by [Gautam Prakash](https://github.com/Gautamprakash17)
+> Maintained by [Gautam Prakash](https://github.com/Gautamprakash17)  
+> Company Repository: [Elint-Agents](https://github.com/Elint-Agents)
 
 ## ✨ Key Features
 
@@ -64,7 +65,12 @@ Enhanced Report → Export Options → History Storage
 
 1. **Clone the repository**:
    ```bash
+   # Personal Repository
    git clone https://github.com/Gautamprakash17/ai-deep-research-agent.git
+   
+   # Company Repository
+   git clone https://github.com/Elint-Agents/ai-deep-research-agent-.git
+   
    cd ai-deep-research-agent
    ```
 
