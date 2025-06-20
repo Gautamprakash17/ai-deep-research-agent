@@ -9,7 +9,7 @@ def test_firecrawl():
     """Test Firecrawl with the provided API key."""
     
     # Your Firecrawl API key
-    api_key = "fc-da739b0d99ce4fd7ad9ea890fa7d0802"
+    api_key = ""
     
     try:
         print("Testing Firecrawl API...")
