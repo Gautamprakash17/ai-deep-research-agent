@@ -1,0 +1,10 @@
+openai-agents
+firecrawl
+streamlit
+firecrawl-py
+requests
+# Optional: for Hugging Face
+transformers
+torch
+# Optional: for local models
+ollama
