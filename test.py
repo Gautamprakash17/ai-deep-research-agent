@@ -1,6 +1,4 @@
-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
 
-fc-da739b0d99ce4fd7ad9ea890fa7d0802 
 
 # Add sliders for research parameters
 col1, col2, col3 = st.columns(3)
